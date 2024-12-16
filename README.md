@@ -1,9 +1,9 @@
-<h1 align ="center">Hi, i'm Max</h1>
+<h1 align ="center">Hi👋, i'm Max</h1>
 <div>
   <h3>About me:</h3>
   <img align="right" height="200" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
   <p align="left">I'm a developer who strives to improve himself by expanding his knowledge.</p>
-  <h3>Code languages</h3>
+  <h3>⚙️ Code languages:</h3>
   <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
         <img width="12" />
