@@ -1,4 +1,4 @@
-<h1 align ="center">Hi👋, i'm Max</h1>
+<h1 align ="center">Hi👋, I'm Max</h1>
 <div>
   <h3>About me:</h3>
   <img align="right" height="200" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
@@ -19,6 +19,7 @@
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     </div>
+    <h3>Portfolio: <strong>Comming soon...</strong></h3>
   
 </div>
 
