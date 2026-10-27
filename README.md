@@ -2,7 +2,7 @@
 
 <img align="right" height="160" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" />
 
-Desarrollador web junior en Barcelona. Hago webs con **HTML, CSS y JavaScript**, backend con **PHP**, y bots y automatizaciones con **Python**. También desarrollo videojuegos con **C# y Unity**.
+Desarrollador web junior en Barcelona. Hago webs con **HTML, CSS y JavaScript**, backend con **PHP**, bots y automatizaciones con **Python**. También desarrollo videojuegos con **C# y Unity**.
 
 ## Proyectos destacados
 
